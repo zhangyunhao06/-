@@ -1,2 +1,6 @@
-# -
-学习c语言
+#include<stdio.h>
+int main()
+{
+	printf("change world");
+	return 0;
+}
